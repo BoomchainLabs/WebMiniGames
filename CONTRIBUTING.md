@@ -42,15 +42,15 @@ If you’d like to use the repository from source, you can either install from g
 To install via git:
 
 ```sh
-$ npm install git+ssh://git@github.com:BoomchainLabs/Chonk9k-suite.git
+$ npm install git+ssh://git@github.com:BoomchainLabs/WebMiniGames.git
 ```
 
 Alternatively, to link a local copy of the repo:
 
 ```sh
 # Clone
-$ git clone https://www.github.com/BoomchainLabs/Chonk9k-suite
-$ cd Chonk9k-suite
+$ git clone https://www.github.com/BoomchainLabs/WebMiniGames
+$ cd WebMiniGames
 
 # With yarn
 $ yarn link
